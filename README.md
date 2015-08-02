@@ -2,7 +2,7 @@
 
 Original project link: https://github.com/aajiwani/EasyNDK-for-cocos2dx
 
-This is an update to the EasyNDK project created by Amir Ali Jiwani.
+This is an update to the EasyNDK project created by Amir Ali Jiwani.Fixed vector remove selector issue and fixed crash if name of two selector are same in different class with different group name.
 Cocos2d-x v3.4 introduced new classes such as cocos2d::Value and
 containers such as cocos2d::Map<> and cocos2d::Vector<>. However, v3.4
 also deprecated most of the classes that the original EasyNDK source
